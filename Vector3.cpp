@@ -1,6 +1,4 @@
-//
-// Created by Peter Zdankin on 04.11.24.
-//
+
 
 #include "Vector3.hpp"
 
