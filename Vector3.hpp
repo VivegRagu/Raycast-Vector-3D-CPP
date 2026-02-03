@@ -1,6 +1,4 @@
-//
-// Created by Peter Zdankin on 04.11.24.
-//
+
 
 #ifndef VECTOR3_HPP
 #define VECTOR3_HPP
